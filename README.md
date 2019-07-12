@@ -1,3 +1,16 @@
+# Get Started
+
+## Running server:
+
+```
+https://github.com/archanashirwant/pwa_news.git
+cd pwa_news
+npm install
+npm run build
+npm install -g serve
+serve -s build
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
